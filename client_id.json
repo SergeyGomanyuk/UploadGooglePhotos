@@ -1,0 +1,11 @@
+{
+"installed":
+	{
+		"client_id":"1046365785875-knl5j1tudbh12918epm070vd58pp0v9r.apps.googleusercontent.com",
+		"client_secret":"d1bTh3jsQXwEpSvW_i8b1uOo",
+		"auth_uri":"https://accounts.google.com/o/oauth2/auth",
+		"token_uri":"https://www.googleapis.com/oauth2/v3/token",
+		"auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+		"redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]
+	}
+}
